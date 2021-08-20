@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "random-password-generator",
+    "slug": "random-password-generator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "random-password-generator"
+}
